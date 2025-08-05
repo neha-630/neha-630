@@ -23,7 +23,7 @@ Hi, I'm Neha. You might recognize me as GitHub's mascot.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
+|     1| Java|
 |     2| Python    |
 |     3| SQL       |
 
