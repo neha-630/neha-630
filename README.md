@@ -18,17 +18,15 @@ Here are some ideas to get you started:
 
 Hi, I'm Neha. You might recognize me as GitHub's mascot.
 
+<details>
+<summary>My top languages</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
 |     2| Python    |
 |     3| SQL       |
 
-
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-<details open
-  <summary>JS>
 </details>
 
 
