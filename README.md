@@ -30,10 +30,7 @@ Hi, I'm Neha. You might recognize me as GitHub's mascot.
 </details>
 
 ---
----
 
 > If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
 
 
